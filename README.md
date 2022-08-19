@@ -1,6 +1,5 @@
 [![Serverless Application Framework AWS Lambda API Gateway](https://s3.amazonaws.com/assets.github.serverless/readme-serverless-framework.gif)](https://serverless.com)
 
-
 [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
 [![Build Status](https://github.com/serverless/serverless/workflows/Integrate/badge.svg)](https://github.com/serverless/serverless/actions?query=workflow%3AIntegrate)
 [![npm version](https://badge.fury.io/js/serverless.svg)](https://badge.fury.io/js/serverless)
@@ -18,6 +17,7 @@ The Serverless Framework is a command-line tool that uses easy and approachable 
 Actively maintained by [Serverless Inc](https://www.serverless.com).
 
 ## Contents
+
 
 - [Quick Start](#quick-start)
 - [Features](#features)
