@@ -38,6 +38,8 @@ npm install -g serverless
 ```
 
 
+
+
 Note: If you don’t already have Node on your machine, [install it first](https://nodejs.org/). If you don't want to install Node or NPM, you can [install `serverless` as a standalone binary](https://www.serverless.com/framework/docs/install-standalone).
 
 ### Getting started
